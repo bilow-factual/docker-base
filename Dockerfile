@@ -1,0 +1,2 @@
+FROM phusion/baseimage
+ENV DEBIAN_FRONTEND=noninteractive
